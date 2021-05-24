@@ -12,11 +12,12 @@ Go to folder
   Run with python3 command : python3 encdec.py -options
   
   <h4>OPTIONS</h4>
-    
-  -h  :  help ( encdec.py -e '<string/url to encode>' -d '<string/url to decode>' )
-  -e  :  encode option ( -e 'string to urlencode')
-  -d  :  decode option ( -d 'encode string to decode into plain text ')
-<hr>  
+    <ul type='ul' style='disc'>
+  <li>-h  :  help option (encdec.py -e 'string to URLencode' / encdec.py -d 'string to URLdecode' )</li>
+  <li>-e  :  encode option ( -e 'string to urlencode' )</li>
+  <li>-d  :  decode option ( -d 'encode string to decode into plain text' )</li>
+      </ul> 
+      <hr>  
   
 <h2>EXAMPLES</h2>
   
