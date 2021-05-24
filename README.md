@@ -5,7 +5,7 @@
 
 Requires python 3.7 or higher
 
-Install with git: <b>git clone https://github.com/<b>
+Install with git: git clone <b>https://github.com/kratintiwari/EncDec.git<b>
 
 Go to folder 
   
